@@ -20,11 +20,12 @@ Dès que tu fais une modification sur la fonction, rafraîchis la page HTML dans
 1. Changer le texte du bouton ***"Main call to action"*** en ***"OK je veux tester !"***
 2. Ajouter l'URL (un href) vers laquelle le bouton "Main call to action" va pointer :
    
-["http://www.techschool4afreeka.org"]
+[http://www.techschool4afreeka.org](http://www.techschool4afreeka.org)
+
 4. Changer le texte du bouton ***"Secondary action"*** en ***"Non Merci"***
 5. Ajouter l'URL vers laquelle le bouton "Secondary action" va pointer
 
-["https://www.pole-emploi.fr/accueil/"]
+[https://www.pole-emploi.fr/accueil/](https://www.pole-emploi.fr/accueil/)
 
 	- Modification n°3
 Écris une fonction ***changeLogoName()*** qui va modifier le titre "Album" de la navbar (en haut
