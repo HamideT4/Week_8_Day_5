@@ -10,15 +10,21 @@ pour vous permettre de voir plus loin. Chez nous, pas de professeurs, pas de loc
 groupe de travail en présentiel. Après 12 semaines, les principaux langages et outils du web
 n'auront plus de secret pour vous !"
 Pour cette fonction comme toutes les suivantes : exécute la fonction dans ton code JS en
-l'appelant en bas avec un changeTitles();. Dès que tu fais une modification sur la fonction, rafraîchis la page HTML dans ton navigateur pour voir si la modification apportée est OK.
+l'appelant en bas avec un changeTitles().
 
-	- Modification n°2
-Ecris une fonction ***changeCallToActions()*** qui va:
+Dès que tu fais une modification sur la fonction, rafraîchis la page HTML dans ton navigateur pour voir si la modification apportée est OK.
+
+
+	- Modificaion n°2
+Écris une fonction ***changeCallToActions()*** qui va:
 1. Changer le texte du bouton ***"Main call to action"*** en ***"OK je veux tester !"***
 2. Ajouter l'URL (un href) vers laquelle le bouton "Main call to action" va pointer :
+   
 ["http://www.techschool4afreeka.org"]
-3. Changer le texte du bouton ***"Secondary action"*** en ***"Non Merci"***
-4. Ajouter l'URL vers laquelle le bouton "Secondary action" va pointer : ["https://www.pole-emploi.fr/accueil/"]
+4. Changer le texte du bouton ***"Secondary action"*** en ***"Non Merci"***
+5. Ajouter l'URL vers laquelle le bouton "Secondary action" va pointer
+
+["https://www.pole-emploi.fr/accueil/"]
 
 	- Modification n°3
 Écris une fonction ***changeLogoName()*** qui va modifier le titre "Album" de la navbar (en haut
@@ -26,13 +32,16 @@ Ecris une fonction ***changeCallToActions()*** qui va:
 1. Change "Album" par "TS4A Experience" ;
 2. Change la taille du texte pour le passer en 2em.
 
+.
+
 	- Modification n°4
+
 Écris une fonction ***populateImages()*** qui va ajouter, dans chacune des 9 cards, une image dont
 l'URL est contenue dans l'array suivant :let imagesArray = ["https://img.icons8.com/color/480/000000/html-5.png",
 
 "https://img.icons8.com/color/480/000000/css3.png",
 
-"https://img.icons8.com/color /480/000000/javascript.png",
+"https://img.icons8.com/color/480/000000/javascript.png",
 
 "https://img.icons8.com/color/480/000000/ruby-programming-language.png",
 
@@ -41,6 +50,7 @@ l'URL est contenue dans l'array suivant :let imagesArray = ["https://img.icons8.
 "https://img.icons8.com/color/480/000000/github.png",
 
 "http://jeudisdulibre.be/wp-content/uploads/2014/02/Ruby_on_Rails-logo.png", 
+
 "https://avatars2.githubusercontent.com/u/25484553?s=200&v=4",
 
 "https://img.icons8.com/color/480/000000/heroku.png"];
